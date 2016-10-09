@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "A bot that gives you conversational cooking tips",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kammitama5/bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Krystal M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kammitama5/bot/issues"
+  },
+  "homepage": "https://github.com/kammitama5/bot#readme"
+}
